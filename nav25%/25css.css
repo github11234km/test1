@@ -1,0 +1,46 @@
+
+body{
+    background-color: thistle;
+}
+
+.had{
+    background-color: blueviolet;
+    display: inline-block;
+    height: 120px;
+    width: 500px;
+    font-size: 100px;
+}
+
+.had2{
+    background-color: brown;
+    height: 120px;
+    font-size: 100px;
+    width: 600px;
+    display: inline-block;
+}
+
+.had3{
+    background-color: cadetblue;
+    height: 120px;
+    width: 900px;
+    display: inline-block;
+    font-size: 100px;
+}
+
+.had4{
+    background-color: coral;
+    height: 120px;
+    border: 20px solid;
+}
+
+
+main{
+    background-color: chartreuse;
+    font-size: 100px;
+    border: 30px solid;
+}
+
+h1{
+    font-size: 200px;
+    text-align: center;
+}
